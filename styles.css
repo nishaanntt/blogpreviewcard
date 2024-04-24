@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Figtree';
+	src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Figtree', 'Courier New', Courier, monospace;
+}
+
+body {
+	background-color: hsl(47, 88%, 63%);
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	display: flex;
+	flex: 1;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	padding: 25px;
+}
+
+.card {
+	background-color: hsl(0, 0%, 100%);
+	padding: 25px;
+	border-radius: 12px;
+	border: 1px solid black;
+	box-shadow: 10px 10px 0 0 black;
+	width: 25rem;
+}
+
+#blog-img {
+	width: 100%;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+#category {
+	background-color: hsl(47, 88%, 63%);
+	width: fit-content;
+	padding: 5px 15px;
+	font-weight: 800;
+	border-radius: 5px;
+	margin-bottom: 1.2rem;
+}
+
+#published {
+	font-size: 0.8em;
+	margin-bottom: 1.5em;
+}
+
+#content {
+	margin-top: 1.2em;
+	color: hsl(0, 0%, 50%);
+}
+
+.author {
+	margin-top: 1.5em;
+	display: flex;
+	align-items: center;
+}
+
+#avatar {
+	max-width: 2em;
+	margin-right: 1em;
+}
+
+.author > p {
+	font-weight: 800;
+	font-size: 1.2em;
+}
+
+.attribution {
+	font-size: 8px;
+	text-align: center;
+	padding: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+	.card {
+		width: 100%;
+	}
+}
