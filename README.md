@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/nishaanntt/blogpreviewcard]GitHub Repo
+- Live Site URL: [https://nishaanntt.github.io/blogpreviewcard/]GitHub Page Link
 
 ## My process
 
@@ -45,4 +45,4 @@ I plan on making myself more comfortable using CSS layouts and mobile first resp
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nishaanntt)
+- Frontend Mentor - [@nishaanntt](https://www.frontendmentor.io/profile/nishaanntt)
