@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/nishaanntt/blogpreviewcard]GitHub Repo
-- Live Site URL: [https://nishaanntt.github.io/blogpreviewcard/]GitHub Page Link
+- Solution URL: [Github Repo](https://github.com/nishaanntt/blogpreviewcard)
+- Live Site URL: [GitHub Page Link](https://nishaanntt.github.io/blogpreviewcard/)
 
 ## My process
 
