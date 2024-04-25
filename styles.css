@@ -60,6 +60,11 @@ main {
 	color: hsl(0, 0%, 50%);
 }
 
+h2:hover {
+	color: hsl(47, 88%, 63%);
+	cursor: default;
+}
+
 .author {
 	margin-top: 1.5em;
 	display: flex;
